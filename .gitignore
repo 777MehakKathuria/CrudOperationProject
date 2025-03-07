@@ -1,0 +1,13 @@
+.m2/
+.gradle/
+.vscode/
+.eclipse/
+.idea/
+.sts4/
+AppData/
+OneDrive/
+*.log
+*.ini
+*.blf
+*.regtrans-ms
+
